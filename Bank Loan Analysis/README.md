@@ -53,11 +53,6 @@ Users can seamlessly slice and dice data using the sidebar filters:
 
 ---
 
-## 📸 Preview
-![Dashboard Preview](Dashboard.PNG)
-
----
-
 ## ⚙️ How to Use / Run Locally
 1. Ensure you have **Power BI Desktop** installed.
 2. Clone this repository or download the `.pbix` file.
