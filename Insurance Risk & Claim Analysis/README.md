@@ -8,7 +8,7 @@ The dashboard provides a comprehensive view of insurance policies, claim amounts
 
 ## 📊 Dashboard Preview
 
-![Instamart Sales Dashboard](https://github.com/Adityakaushik-mrt/Power-BI-Dashboard/blob/main/Instamart-Sales-Dashboard/Instamart_Dashboard.JPG?raw=true)
+![Instamart Sales Dashboard](https://github.com/Adityakaushik-mrt/Power-BI-Dashboard/blob/main/Insurance%20Risk%20&%20Claim%20Analysis/Insurance%20Dashboard.PNG?raw=true)
 
 ## 🎯 Business Objective
 
